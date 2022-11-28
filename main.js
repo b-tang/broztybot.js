@@ -27,5 +27,3 @@ client.on('message', message =>{
     }
 });
 
-
-client.login('ODUyNjkxMDUwMjc5NDY5MDY2.YMKgbA.xKnRHVBmuiHOTp89WitduLk2UzU'); //end of file
